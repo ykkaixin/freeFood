@@ -7,4 +7,4 @@ python3 freeFood.py
 
 # Result
 
-Generating the 3 file(.ics) and double clicking these file.
+Generating the 3 canlendar file(.ics) in director freeFood and double clicking these file.
