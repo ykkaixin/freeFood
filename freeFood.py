@@ -7,7 +7,7 @@ from datetime import date, datetime, time, timedelta, timezone
 import calendar
 from icalendar import Calendar, Event
 from selenium.webdriver.chrome.options import Options
-import oss
+import os
 
 last_path = os.path.abspath('..')
 print(last_path)
